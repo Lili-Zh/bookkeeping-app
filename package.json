@@ -2,7 +2,7 @@
   "name": "heima-accounting",
   "productName": "黑马记账",
   "version": "1.0.0",
-  "description": "黑马记账 —— Windows 个人收支记账桌面软件",
+  "description": "记账 —— Windows 个人收支记账桌面软件",
   "main": "out/main/index.js",
   "author": "Lili Zheng",
   "private": true,
