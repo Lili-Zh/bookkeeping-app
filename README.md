@@ -1,4 +1,4 @@
-# 记账
+# Bookkeeping App
 
 一个界面清新、功能完整的 **Windows 个人收支记账桌面应用**，基于 Electron + Vue 3 开发。
 
